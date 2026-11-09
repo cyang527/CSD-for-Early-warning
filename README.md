@@ -14,3 +14,16 @@ Analysis code for reconstructing degradation-related states, evaluating capacity
 The notebooks use Python 3.12. The analysis environment is specified in [requirements.txt](requirements.txt).
 
 This repository contains the analysis source code. Reproducing the study results requires the separate analysis package containing prepared inputs, study-specific settings and specimen assignments.
+
+## Citation
+Paper:
+```
+@article{Yang2026,
+  title={A critical-slowing-down interpretation of battery capacity-knee precursors},
+  author={Chaoying Yang, XX...},
+  journal={xx},
+  year={2026},
+  doi={xx},
+  url={xx},
+}
+```
